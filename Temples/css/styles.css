@@ -1,4 +1,4 @@
-.row-header{
+gi.row-header{
     margin: 0px auto;
      padding: 0px auto;
 }
@@ -28,3 +28,15 @@ color: floralwhite;
     color: #0f0f0f;
     
 }
+body{
+padding: 60px 0px 0px 0px;
+z-index: 0;
+
+}
+.navbar-dark{
+    background-color: #512DA8;
+
+}
+.primero{
+    text-align: 50px;
+ }
